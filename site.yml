@@ -1,0 +1,5 @@
+---
+- hosts: ansible_host
+  tasks:
+    - name: install telnet package on servers
+      apt: name=telnet state=present update_cache=yes
