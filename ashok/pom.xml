@@ -23,12 +23,10 @@
     </dependency>
   </dependencies>
 <repositories>
-    ...
     <repository>
         <id>DEV</id>
         <name>maven2-Release</name>
         <url>http://192.168.105.2:8081/nexus</url>
     </repository>
-    ...
 </repositories>
 </project>
