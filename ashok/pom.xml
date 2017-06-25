@@ -22,6 +22,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+<!--
 <repositories>
 <DistributionManagement>
     <repository>
@@ -32,4 +33,5 @@
  </DistributionManagement>
 
 </repositories>
+-->
 </project>
