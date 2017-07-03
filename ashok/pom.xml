@@ -4,7 +4,7 @@
 
   <groupId>cts</groupId>
   <artifactId>ashok</artifactId>
-  <version>1.1-snapshot</version>
+  <version>1.5-snapshot</version>
   <packaging>jar</packaging>
 
   <name>ashok</name>
